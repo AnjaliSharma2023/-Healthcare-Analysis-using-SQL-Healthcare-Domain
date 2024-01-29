@@ -14,6 +14,7 @@ This specific dataset focuses on female health, comprising information on encoun
    
 Exploration & Tools:
 I am using the SQL server Management tool to uncover the objectives of this analysis. Here are the SQL commands and statements used in this project,
+
 •	DISTINCT
 •	HAVING
 •	Merging columns in tables with JOINS
